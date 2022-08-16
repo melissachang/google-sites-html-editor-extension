@@ -1,1 +1,1 @@
-# google-sites-html-editor-extension
+Chrome extension to make Google Sites HTML editor bigger
